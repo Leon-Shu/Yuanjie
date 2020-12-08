@@ -6,7 +6,8 @@ Created on Sat Dec  5 20:29:51 2020
 For process the abaqus-fortran result.
 1681 is the number of node.
 (Total_Cycle_Num-1) is determined by the number of cycles required
-Calling a Matlab program to plot a figure
+Calling a Matlab program to plot a 3D figure
+Use it with mesh3D.m
 
 
 """
