@@ -40,9 +40,9 @@ C     must be set equal to or greater than 15
 C     debug flag      
       DEBUG=1
       
-C     WEAR PARAMETERS DEFINED BY SHENFEI
-      DELTAN=1000
-      PK=2E-7 
+C     WEAR PARAMETERS
+      DELTAN=1
+      PK=2E-8 
       
       OPEN(unit=16,file=
      $ 'E:\temp\Out-UMESHMOTION.txt',
