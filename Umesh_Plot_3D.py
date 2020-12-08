@@ -1,8 +1,14 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Dec  5 20:29:51 2020
+@author: jjieleo
 
-@author: jjiel
+For process the abaqus-fortran result.
+1681 is the number of node.
+(Total_Cycle_Num-1) is determined by the number of cycles required
+Calling a Matlab program to plot a figure
+
+
 """
 import matlab.engine
 import time
